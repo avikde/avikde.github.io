@@ -4,6 +4,8 @@ title: Modular MPC for RoboBee (IJRR 2022)
 categories: papers robobee
 ---
 
+TODO: get from RI seminar slides
+
 My second paper from my Harvard postdoc "[An efficient, modular controller for flapping flight composing model-based and model-free components](https://journals.sagepub.com/doi/full/10.1177/02783649211063225)" is out on IJRR. This paper was a culmination of learning numerical optimization and [microfabrication](https://www.micro.seas.harvard.edu/research) during my Harvard postdoc. The latter was especially challenging due to COVID making it impossible to have a collaborative lab where you can actually ask for guidance when you don't know how anything works.
 
 While the results are relatively modest, the concepts are interesting in my opinion. Specifically, in [Kodlab](https://kodlab.seas.upenn.edu/) we thought that optimization-based methods could not be made modular or compositional. While in most research papers, that ends up being true, there are some notable exceptions. For example,
