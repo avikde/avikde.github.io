@@ -21,3 +21,11 @@ I haven't managed to write the papers about the gait work I've been doing on it,
 ![](/images/background_gif_LR_COMP.gif "Minitaur bound in place")
 
 In case you were wondering, it does go forward and doesn't just dither in place... Hopefully I can share many more exciting videos with Minitaur in the near future!
+
+Some of my own stupid clips from 2016:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JwPHx3qY5zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Official video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bnKOeMoibLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
