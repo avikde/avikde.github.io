@@ -7,11 +7,11 @@ layout: default
   <h1>🏠 Hello</h1>
 
   <div class="entry">
-    <p>Welcome to my website.</p>
+    <p>Welcome to my website. Here I'll try to collect and preserve my thoughts on work I've done, projects I've worked on, animals we've rescued, places we've been, ...</p>
+
+    <p>Everything here is strictly my personal opinion and does not represent the position of any companies, labs, or universities that may appear.</p>
     
-    <p>The <a href="{{ site.baseurl }}/about">about</a> page talks more about me.</p>
-    
-    <p>The <a href="{{ site.baseurl }}/tags">all posts</a> page lists all the posts by topic.</p>
+    <p>The <a href="{{ site.baseurl }}/about">about</a> page talks more about me. The <a href="{{ site.baseurl }}/tags">all posts</a> page lists all the posts by topic.</p>
   </div>
   
   <h1>📰 Latest Posts</h1>
@@ -19,7 +19,7 @@ layout: default
 
 
 <div class="posts">
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts limit:20 %}
     <article class="post">    
       
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
