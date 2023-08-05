@@ -6,7 +6,7 @@ categories: papers
 
 TODO
 
-Paper link: [Mode-Reactive Template-Based Control in Planar Legged Robots](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=m-A4ZdEAAAAJ&cstart=20&pagesize=80&citation_for_view=m-A4ZdEAAAAJ:OcBU2YAGkTUC)
+Paper link: [Mode-Reactive Template-Based Control in Planar Legged Robots](https://ieeexplore.ieee.org/document/9702146)
 
 Video:
 
