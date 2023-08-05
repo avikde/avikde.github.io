@@ -75,6 +75,10 @@ p {
   margin: 15px 0;
   line-height: 1.5em;
   text-align: justify;
+
+  @include mobile {
+    text-align: left;
+  }
 }
 
 li {
