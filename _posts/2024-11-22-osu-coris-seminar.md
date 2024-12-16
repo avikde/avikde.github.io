@@ -6,6 +6,10 @@ categories: talk
 
 I gave a [talk at OSU's CoRIS seminar](https://engineering.oregonstate.edu/events/power-efficient-autonomous-mobile-robots). It was a joy to visit OSU's Robotics department. The faculty are driven to solve problems grounded in the real world, in application areas ranging from under the sea to the peak of Mt. Hood.
 
+Also, it was only partially raining on the day of the seminar (which I found out was a rarity). The [PNW](https://en.wikipedia.org/wiki/Pacific_Northwest) scenery is terrific and would be a great draw if it didn't mostly rain from September to May.
+
+![OSU](/images/osu.jpeg)
+
 ## Modularity
 
 In this talk, I started with my own intellectual interests in robotics, which was very much a bottom-up exploration of composition in robotics.
