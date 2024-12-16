@@ -35,12 +35,25 @@ Sequential and parallel composition are a very intuitive idea with equivalents i
 
 ### Modularity elsewhere
 
+__Under construction__
 
+Deep learning did evolve from neural networks, which evoke biology right there in the name. Research in robotic locomotion has also similarly looked to biology for inspiration.
 
-![Modules in Biomechanics](/images/modules_biomechanics.png)
+![Modules in Biology](/images/modules_biology.png)
+
+<!-- ![Modules in Biomechanics](/images/modules_biomechanics.png) -->
+
+Stepping back, eq can make some equivalences
 
 ![Modularity is Everywhere](/images/modularity_everywhere.png)
 
+Why do we need it?
+
+* Address fundamental robotics constraints in power, force, and computation
+
+How do we get it?
+
+* Principled application of reduced-order models for design and control
 
 , then moved to the motivation from real-world applications with Ghost Robotics
 
@@ -48,6 +61,8 @@ Sequential and parallel composition are a very intuitive idea with equivalents i
 ## Impacts of
 
 ![Energy](/images/energy.png)
+
+https://www.technologyreview.com/2024/12/13/1108719/ais-emissions-are-about-to-skyrocket-even-further/
 
 ![Safety and Predicability](/images/safety_predictability.png)
 
