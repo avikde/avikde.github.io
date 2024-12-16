@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jerboa parallel composition paper (ICRA 2015)
-categories: jerboa
+categories: jerboa papers
 ---
 
 New robot video and [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=m-A4ZdEAAAAJ&sortby=pubdate&citation_for_view=m-A4ZdEAAAAJ:_5tno0g5mFcC)!

@@ -56,14 +56,15 @@ and implementing the electrical/computing subsystem (comprised of mass-manufactu
 
 I have also given a number of invited talks separate from conference paper presentations, some of which I've written posts about:
 
+- 2024/11 [OSU CoRIS Seminar](/osu-coris-seminar) -- Power-efficient autonomous mobile robots
 - 2022/06 GRASP Industry Day -- Introduction to Ghost Robotics
 - 2022/05 [ICRA impulsive workshop](https://impulsivemuri.com/workshop2022.html) -- Design and control of insect-scale bees and dog-scale quadrupeds
 - 2022/05 [Kodfest](https://kodlab.seas.upenn.edu/kodfest/) -- [Kodlab 2010-2017](/kodfest)
 - 2021/09 [IROS actuator workshop](https://www.ram.eemcs.utwente.nl/gears-direct-drive-recent-trends-and-opportunities-actuation) -- [Operating at force, power, and thermal limits in electrically-actuated commercial legged robots](https://youtu.be/724g-ZmK0G8)
 - 2021/06 [ICRA legged robot workshop](http://leggedrobots.put.poznan.pl/program/) -- [Perception-aided control and planning with reduced order models](/icra-legged-ws-2021)
 - 2021/05 [ICRA teleoperation workshop](https://softmanbot.eu/?p=591) -- [Shared autonomy and user interaction in commercial legged robots](/shared-autonomy-ui)
-- 2021/04 [CMU RI Seminar](https://www.ri.cmu.edu/event/ri-seminar-avik-de-co-founder-cto-ghost-robotics-2021-04-23/) -- [Design and control of insect-scale bees and dog-scale quadrupeds](ri-seminar)
-- 2021/02 [IFRR quadruped robotics colloquium](http://ifrr.org/quadruped-robotics) -- [State of the art in quadrupedal robotics](ifrr-colloquium)
+- 2021/04 [CMU RI Seminar](https://www.ri.cmu.edu/event/ri-seminar-avik-de-co-founder-cto-ghost-robotics-2021-04-23/) -- [Design and control of insect-scale bees and dog-scale quadrupeds](/ri-seminar)
+- 2021/02 [IFRR quadruped robotics colloquium](http://ifrr.org/quadruped-robotics) -- [State of the art in quadrupedal robotics](/ifrr-colloquium)
 - 2020/07 [RSS contact workshop](http://mlab.ri.cmu.edu/reacting_contact_workshop/) -- [Reacting to contact](https://youtu.be/al8xvj2-YLY)
 - 2020/07 [ICRA legged workshop](https://sites.google.com/view/leggedrobotworkshop2020) -- [Designing power-efficient quadrupedal robots for commercial applications at Ghost Robotics](https://youtu.be/30kZT3RTFpI)
 - 2019/09 GRASP 40 year celebration -- [Perspective on Academia vs. Industry](/academia-industry)
