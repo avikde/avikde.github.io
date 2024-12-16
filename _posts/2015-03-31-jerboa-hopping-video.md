@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Jerboa parallel composition paper (ICRA 2015)
-categories: jerboa
+categories: jerboa papers
 ---
 
 New robot video and [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=m-A4ZdEAAAAJ&sortby=pubdate&citation_for_view=m-A4ZdEAAAAJ:_5tno0g5mFcC)!
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/wvYthkpRFfk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wvYthkpRFfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 When I first wanted to depart from the tried-and-true [RHex robots](http://kodlab.seas.upenn.edu/XRHex/XRHex) in Kodlab, my first thought was to build a robot that runs like RHex on two legs. So, full of visions of the running velociraptors in Jurassic Park, I set out to create a robot with a powerful tail, and two RHex-like legs.
 

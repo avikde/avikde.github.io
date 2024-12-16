@@ -32,23 +32,23 @@ For a more complete list of papers, see [my Google scholar page](https://scholar
 
 ### 🏢 Work experience excluding teaching
 
-- Ghost Robotics Corp. Co-founder & CTO. Co-founded a company commercializing legged robots. Responsibilities include 
+- [Ghost Robotics](https://www.ghostrobotics.io/). Co-founder & CTO. Co-founded a company commercializing legged robots. Responsibilities include 
 assembling an engineering team starting from the two co-founders to 45+, mobility algorithms for robust deployment, architecting
 and implementing the electrical/computing subsystem (comprised of mass-manufacturable custom electronics), firmware and low-level software.
 2015--now
-- LIMBS lab (Noah Cowan), JHU. Undergrad research assistant: neuromechanical control of juggling; SLAM on graphs. This part-time research resulted in a conference paper (WAFR 2008), a master’s thesis, and a 3rd author journal paper.
+- [LIMBS lab (Noah Cowan), JHU](https://limbs.lcsr.jhu.edu/). Undergrad research assistant: neuromechanical control of juggling; SLAM on graphs. This part-time research resulted in a conference paper (WAFR 2008), a master’s thesis, and a 3rd author journal paper.
 2007--10 
-- Advanced Academic Programs, JHU. Web/database developer (Coldfusion/SQL). 2006--10 
+- [Advanced Academic Programs, JHU](https://advanced.jhu.edu/). Web/database developer (Coldfusion/SQL). 2006--10 
 - Academic Advising, JHU. Tutor (Physics I/II, Calculus I/II/III). 2007--08
-- Residential Life, JHU. Resident advisor
+- [Residential Life, JHU](https://studentaffairs.jhu.edu/community-living/residential-life/). Resident advisor
 
 ### 🏆 Honors and awards
 
 - Outstanding reviewer awards: [RAL](/assets/best_reviewer_award_icra18.pdf), [Bioinspriation & Biomimetics](/assets/outstanding_reviewer_bb.pdf), [IOP publishing](/assets/J-VAR-CE-0920-Trusted-Reviewer-1405.pdf)
 - Best Doctoral Dissertation Award for the 2017-2018 Academic Year. UPenn Electrical and Systems Engineering dept. 2018
-- James S. McDonnell Postdoctoral Fellowship Winner. $200,000 award for 2-3 years. 2017
+- [James S. McDonnell Postdoctoral Fellowship](https://www.jsmf.org/apply/fellowship/) Winner. $200k award for 2-3 years. 2017
 - Robert George Gerstmeyer Award. For academic achievement (JHU Mech. Engg. Department) 2008--09 
-- Provost’s Undergraduate Research Award. For summer research (JHU) 2008--09 
+- [Provost’s Undergraduate Research Award](https://hour.jhu.edu/opportunities/pura/). For summer research (JHU) 2008--09 
 - Tau Beta Pi, Pi Tau Sigma Engg. honor societies. Inductee (JHU) 2008
 - International Scholarship. Merit-based full-tuition scholarship (JHU) 2006--10 
 
@@ -56,14 +56,15 @@ and implementing the electrical/computing subsystem (comprised of mass-manufactu
 
 I have also given a number of invited talks separate from conference paper presentations, some of which I've written posts about:
 
+- 2024/11 [OSU CoRIS Seminar](/osu-coris-seminar) -- Power-efficient autonomous mobile robots
 - 2022/06 GRASP Industry Day -- Introduction to Ghost Robotics
 - 2022/05 [ICRA impulsive workshop](https://impulsivemuri.com/workshop2022.html) -- Design and control of insect-scale bees and dog-scale quadrupeds
 - 2022/05 [Kodfest](https://kodlab.seas.upenn.edu/kodfest/) -- [Kodlab 2010-2017](/kodfest)
 - 2021/09 [IROS actuator workshop](https://www.ram.eemcs.utwente.nl/gears-direct-drive-recent-trends-and-opportunities-actuation) -- [Operating at force, power, and thermal limits in electrically-actuated commercial legged robots](https://youtu.be/724g-ZmK0G8)
 - 2021/06 [ICRA legged robot workshop](http://leggedrobots.put.poznan.pl/program/) -- [Perception-aided control and planning with reduced order models](/icra-legged-ws-2021)
 - 2021/05 [ICRA teleoperation workshop](https://softmanbot.eu/?p=591) -- [Shared autonomy and user interaction in commercial legged robots](/shared-autonomy-ui)
-- 2021/04 [CMU RI Seminar](https://www.ri.cmu.edu/event/ri-seminar-avik-de-co-founder-cto-ghost-robotics-2021-04-23/) -- [Design and control of insect-scale bees and dog-scale quadrupeds](ri-seminar)
-- 2021/02 [IFRR quadruped robotics colloquium](http://ifrr.org/quadruped-robotics) -- [State of the art in quadrupedal robotics](ifrr-colloquium)
+- 2021/04 [CMU RI Seminar](https://www.ri.cmu.edu/event/ri-seminar-avik-de-co-founder-cto-ghost-robotics-2021-04-23/) -- [Design and control of insect-scale bees and dog-scale quadrupeds](/ri-seminar)
+- 2021/02 [IFRR quadruped robotics colloquium](http://ifrr.org/quadruped-robotics) -- [State of the art in quadrupedal robotics](/ifrr-colloquium)
 - 2020/07 [RSS contact workshop](http://mlab.ri.cmu.edu/reacting_contact_workshop/) -- [Reacting to contact](https://youtu.be/al8xvj2-YLY)
 - 2020/07 [ICRA legged workshop](https://sites.google.com/view/leggedrobotworkshop2020) -- [Designing power-efficient quadrupedal robots for commercial applications at Ghost Robotics](https://youtu.be/30kZT3RTFpI)
 - 2019/09 GRASP 40 year celebration -- [Perspective on Academia vs. Industry](/academia-industry)

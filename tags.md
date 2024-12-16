@@ -17,7 +17,7 @@ permalink: /tags/
 {% for posts in category %}
   {% for post in posts %}
     {% if post.url %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a> -- {{ post.date | date: "%B %e, %Y" }}</li>
     {% endif %}
   {% endfor %}
 {% endfor %}
