@@ -34,8 +34,7 @@ Analogously, we can retroactively label Raibert's "control in three parts" idea 
 
 Sequential and parallel composition are a very intuitive idea with equivalents in programming and spoken language. Consider the example of generating spoken language -- instead of outputting the sounds corresponding to an entire sentence at once, we may want to start by assembling words from [phonemes](https://en.wikipedia.org/wiki/Phoneme), and assembling those into sentences. On the other hand, modern [deep learning speech synthesis](https://en.wikipedia.org/wiki/Deep_learning_speech_synthesis) may not have any such compositional properties, which is an intentional counterpoint that we will return to.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Compositionality remains unsolved. <br><br>Same as it ever was. <a href="https://t.co/0IM9Ag8jIA">https://t.co/0IM9Ag8jIA</a></p>&mdash; Gary Marcus (@GaryMarcus) <a href="https://twitter.com/GaryMarcus/status/1731083430165946379?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I saw debates on whether GPT-4V can “solve” compositionality, so I spent my precious Friday afternoon benchmarking it on Winoground.<br><br>Tldr: NO it’s still far from solved (GPT-4V 38.0% vs PaLI 28.8% vs MTurk Humans 85.5%).<br><br>Colab w/ all results: <a href="https://t.co/ksaoBNU8i4">https://t.co/ksaoBNU8i4</a> <br><br>🧵(1/n)</p>&mdash; CLS (@ChengleiSi) <a href="https://twitter.com/ChengleiSi/status/1731047065382523332?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Modularity elsewhere
 
