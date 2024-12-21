@@ -56,7 +56,7 @@ and implementing the electrical/computing subsystem (comprised of mass-manufactu
 
 I have also given a number of invited talks separate from conference paper presentations, some of which I've written posts about:
 
-- 2024/11 [OSU CoRIS Seminar](/osu-coris-seminar) -- Power-efficient autonomous mobile robots
+- 2024/11 [OSU CoRIS Seminar](https://engineering.oregonstate.edu/events/power-efficient-autonomous-mobile-robots) -- [Power-efficient autonomous mobile robots](/power-efficient-robots)
 - 2022/06 GRASP Industry Day -- Introduction to Ghost Robotics
 - 2022/05 [ICRA impulsive workshop](https://impulsivemuri.com/workshop2022.html) -- Design and control of insect-scale bees and dog-scale quadrupeds
 - 2022/05 [Kodfest](https://kodlab.seas.upenn.edu/kodfest/) -- [Kodlab 2010-2017](/kodfest)

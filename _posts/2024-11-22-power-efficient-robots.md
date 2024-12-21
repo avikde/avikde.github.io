@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OSU CoRIS seminar on power-efficient robots
+title: Power-efficient autonomous mobile robots talk
 categories: talk
 ---
 
