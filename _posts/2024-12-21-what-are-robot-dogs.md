@@ -4,7 +4,7 @@ title: What are robot dogs, and what are they good for?
 categories: quadruped
 ---
 
-I recently got contacted by a journalist with some questions about quadrupedal robots (what they are, what they are good for, etc.). It was an interesting exercise in processing my personal thoughts, and since only a small amount of what I said ended up making it into the publication, I thought I would record 
+I was recently contacted by a journalist for a magazine article about quadrupedal robots (what they are, what they are good for, etc.). It was a good exercise in processing my own thoughts, and since only a small amount of them ended up making it into the publication, I'll record them here.
 
 > Robots tend to imitate naturally occurring, biological structures. What is it about a dog's form that makes it ideal to roboticize?
 
@@ -23,13 +23,11 @@ Other than the legs, the body of the robot contains a power source (typically a 
 
 > The Vision series includes some of the most successful quadrupeds to date. Can you elaborate on certain design features that make it superior to other models?
 
-Despite the recent rise in popularity of legged robotics, we as a community are still discovering newer and more impactful use-cases for this technology, and these applications inform which features we prioritize in our robots. At Ghost Robotics, we have made it a core value to work closely with our customers to understand their use cases and incorporate their feedback into our design process.
+Despite the recent rise in popularity of legged robotics, we are still discovering newer and more impactful use-cases for this technology, and these applications inform which features robot manufacturers prioritize.
 
-One important feature we have worked on extensively is energetic efficiency. The Vision robot is class-leading in this aspect, due to careful design in all of its building blocks ranging from its design to the algorithms used to control its motion. In the near term, this means that our robots have a competitive advantage in their battery life, but in the longer-term hopeful future of a proliferation of these robots in various use cases, we anticipate that this focus will allow a positive weighting of their utility against their energy consumption. Emerging technologies like artificial intelligence (AI) are currently having to [contend with this cost-benefit analysis](https://www.nature.com/articles/d41586-024-03408-z), and legged robots will be no different.
+One important feature is energetic efficiency, which needs careful attention in all building blocks of a four-legged robot, ranging from its design to the algorithms used to control its motion. In the longer-term hopeful future of a proliferation of these robots in various use cases, this focus will allow a positive weighting of their utility against their energy consumption. Emerging technologies like artificial intelligence (AI) are currently having to [contend with this cost-benefit analysis](https://www.nature.com/articles/d41586-024-03408-z), and legged robots will be no different.
 
-The Vision robots were also designed to be rugged to environmental factors such as water and dust; can be operated in frigid, or hot desert environments; or even completely submerged under water. In a similar vein, we designed the robot to be able to walk “blindly” (without any perception of its environment), using reflexes to react to slips or stubbed toes and remain balanced. This allows the robot to walk through obscured terrain such as accumulated snow, tall grass, or mud. The robot is also field-repairable, allowing customers to swap non-functioning legs in a matter of minutes and prevent significant downtime.
-
-Lastly, in keeping with our commitment to developing the robot hand-in-hand with our partners, we have an open architecture to allow developers to customize the robot to solve new problems. In particular, our wide range of peripheral connectivity options and powerful software developer kit enable our customers to tailor the robot's behavior to their needs (e.g., the development of a [hose-pointing behavior for firefighter support](https://www.instagram.com/p/DCHxxlOPjga/)). Much like an app store amplifies the utility of a smartphone, we believe that customizability will increase the utility of legged robots in niche but impactful use cases.
+It is also important--because the technology is so new--to embrace developers and empower them to customize the robot to solve new problems. A wide range of peripheral connectivity options and a software developer kit can enable (for example), the development of a [hose-pointing behavior for firefighter support](https://www.instagram.com/p/DCHxxlOPjga/). Much like an app store amplifies the utility of a smartphone, customizability will increase the utility of legged robots in niche but impactful use cases.
 
 > What are some of the trickier aspects when it comes to developing a robot dog? What challenges are developers in this space currently facing?
 
@@ -44,8 +42,6 @@ Lastly, legged robots are complex electromechanical machines, currently being de
 Four-legged robots are very versatile platforms that exhibit good mobility, payload capacity, and range for a given size and weight. This means that they are able to carry sensors and payloads (attachments) for long missions, in built environments including stairs, or in rugged outdoor terrain. This makes them very suited for automating tasks such as [security](https://www.tyndall.af.mil/News/Article-Display/Article/2550793/tyndall-brings-in-the-big-dogs/) and equipment inspection, surveying, and [mapping](https://youtu.be/vpVlX1z4sFs?si=J7DdRv9tut0Z1S82). These jobs currently involve workers going into remote locations, hazardous environments, or performing repetitive tasks, and are ripe for automation. Automated inspection and security call for payloads such as high-resolution, thermal, electro-optical, or low-light cameras, acoustic imagers, and hazardous gas sensors.
 
 These robots also provide a great deal of utility as the eyes and ears of first responders, going first into dangerous situations such as [disaster](https://www.overtdefense.com/2024/01/19/japans-ground-self-defense-force-deploys-robot-dogs-to-aid-earthquake-relief-efforts/) [response](https://www.cincinnati.com/story/news/2024/11/10/daniel-carter-beard-bridge-fire-odot-uses-robodog-to-assess-damage/76126394007/), and response to chemical, biological, radiological, nuclear, or explosive ordnance (CBRNE). For these applications, payloads such as multi-gas detectors, raman spectrometers, radiation, and explosive trace detectors are useful payloads.
-
-At Ghost Robotics, we have integrated or are integrating a number of these payloads onto the Vision robot, and we also work with third-party integrators and end-users who design payloads for various applications.
 
 > Why is this tech important?
 
