@@ -83,15 +83,19 @@ Intuitively, a modular architecture can be "debugged" and intermediate outputs c
 
 ### Energy
 
+Another rising concern is the energetic consumption of various computational tools. While mechanical work done by robots necessarily needs energetic input (and the conversion efficiency can be [quite high](https://www.worldscientific.com/doi/abs/10.1142/9789814415958_0057)), the cost of computational work is nowhere close to the only known fundamental energetic limit based on [Landauer's principle](https://en.wikipedia.org/wiki/Landauer%27s_principle).
+
+Even as chips get more and more efficient, our appetite for computation outstrips those benefits, raising [continual](https://www.nature.com/articles/d41586-024-03408-z) 
+[concern](https://www.technologyreview.com/2024/12/13/1108719/ais-emissions-are-about-to-skyrocket-even-further/).
+
 ![Energy](/images/energy.png)
 
-Articles as recently as December 2024 
-[Fixing AI's energy crisis](https://www.nature.com/articles/d41586-024-03408-z) 
-
-
-[AI's emissions are about to skyrocket even further](https://www.technologyreview.com/2024/12/13/1108719/ais-emissions-are-about-to-skyrocket-even-further/)
-
+As already recognized by biology, a growing community of researchers are exploiting the fact that [modular neural networks reduce power consumption](https://dl.acm.org/doi/10.1145/3408062).
 
 ## The case for compositionality
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lbJfh0MOcp0?si=clKJ9al4mtbao6Kb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [The Challenge of Compositionality for AI](https://compositionalintelligence.github.io/)
+
+![Energy](/images/abstraction.png)
