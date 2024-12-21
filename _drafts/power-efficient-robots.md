@@ -94,8 +94,18 @@ As already recognized by biology, a growing community of researchers are exploit
 
 ## The case for compositionality
 
+Modularity comes with a price. The motor modules in humans have appeared over the (long) course of animal evolution, and the modular control structures developed for robots need to be hand-crafted. These processes are much less automatic, and [need more work than](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) simply scaling a single structure with more data.
+
+Additionally, modularity necessarily imposes limits on the space of usable methods or algorithms. For example, a modular controller reasoning with the equivalent of "motor modules" for a triple pendulum would never be able to accomplish this:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lbJfh0MOcp0?si=clKJ9al4mtbao6Kb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[The Challenge of Compositionality for AI](https://compositionalintelligence.github.io/)
+Nevertheless, the question of system abstraction with modularity has come up before in other fields such as digital VLSI and programming languages, and has clearly won out, in part due to the reasons discussed above.
 
-![Energy](/images/abstraction.png)
+![Abstraction](/images/abstraction.png)
+
+We don't yet have a generally accepted methodology or architecture in robotics that could be a foundation for symbolic behavior programming.
+
+Transformer-based deep neural networks have become a generally-accepted architecture for without compositional properties, but neural networks are not necessarily incompatible with compositionality. For example, see [Hinton](https://direct.mit.edu/neco/article/35/3/413/114140/How-to-Represent-Part-Whole-Hierarchies-in-a) and [Marcus](https://compositionalintelligence.github.io/pdfs/Marcus.pdf). For more on this topic, I highly recommend the proceedings of this workshop on [The Challenge of Compositionality for AI](https://compositionalintelligence.github.io/).
+
+What is the path forward? If we value the benefits of modularity discussed above, it will take more work to develop the correct architectures, but I argue that this work is essential to get to the point of robotics becoming a true scientific discipline with predictable outcomes.
