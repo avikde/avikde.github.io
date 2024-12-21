@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![Avik De](/images/Avik-De.jpg)
+![Avik De](/images/head.png)
 
 I'm a co-founder and CTO of [Ghost Robotics](https://www.ghostrobotics.io/) ([YouTube](https://www.youtube.com/channel/UCG4Xp4nghgyWK4ud5Xbo-4g), [Twitter](https://twitter.com/Ghost_Robotics)), a startup company commercializing legged robotics in Philadelphia. The company currently has two products, a 45kg quadruped aimed at industrial applications, and a 12kg quadruped aimed at research applications. 
 
