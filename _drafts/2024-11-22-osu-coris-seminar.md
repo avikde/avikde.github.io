@@ -1,10 +1,14 @@
 ---
 layout: post
-title: OSU CoRIS Seminar on Power Efficient Robots
+title: OSU CoRIS seminar on power-efficient robots
 categories: talk
 ---
 
 I gave a [talk at OSU's CoRIS seminar](https://engineering.oregonstate.edu/events/power-efficient-autonomous-mobile-robots). It was a joy to visit OSU's Robotics department. The faculty are driven to solve problems grounded in the real world, in application areas ranging from under the sea to the peak of Mt. Hood.
+
+Also, it was only partially raining on the day of the seminar (which I found out was a rarity). The [PNW](https://en.wikipedia.org/wiki/Pacific_Northwest) scenery is terrific and would be a great draw if it didn't mostly rain from September to May.
+
+![OSU](/images/osu.jpeg)
 
 ## Modularity
 
@@ -30,12 +34,11 @@ Analogously, we can retroactively label Raibert's "control in three parts" idea 
 
 Sequential and parallel composition are a very intuitive idea with equivalents in programming and spoken language. Consider the example of generating spoken language -- instead of outputting the sounds corresponding to an entire sentence at once, we may want to start by assembling words from [phonemes](https://en.wikipedia.org/wiki/Phoneme), and assembling those into sentences. On the other hand, modern [deep learning speech synthesis](https://en.wikipedia.org/wiki/Deep_learning_speech_synthesis) may not have any such compositional properties, which is an intentional counterpoint that we will return to.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Compositionality remains unsolved. <br><br>Same as it ever was. <a href="https://t.co/0IM9Ag8jIA">https://t.co/0IM9Ag8jIA</a></p>&mdash; Gary Marcus (@GaryMarcus) <a href="https://twitter.com/GaryMarcus/status/1731083430165946379?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I saw debates on whether GPT-4V can “solve” compositionality, so I spent my precious Friday afternoon benchmarking it on Winoground.<br><br>Tldr: NO it’s still far from solved (GPT-4V 38.0% vs PaLI 28.8% vs MTurk Humans 85.5%).<br><br>Colab w/ all results: <a href="https://t.co/ksaoBNU8i4">https://t.co/ksaoBNU8i4</a> <br><br>🧵(1/n)</p>&mdash; CLS (@ChengleiSi) <a href="https://twitter.com/ChengleiSi/status/1731047065382523332?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Modularity elsewhere
 
-__Under construction__
+_TO BE COMPLETED_
 
 Deep learning did evolve from neural networks, which evoke biology right there in the name. Research in robotic locomotion has also similarly looked to biology for inspiration.
 
@@ -64,7 +67,7 @@ How do we get it?
 
 https://www.technologyreview.com/2024/12/13/1108719/ais-emissions-are-about-to-skyrocket-even-further/
 
-![Safety and Predicability](/images/safety_predictability.png)
+![Safety and Predictability](/images/safety_predictability.png)
 
 
 [The Challenge of Compositionality for AI](https://compositionalintelligence.github.io/)
