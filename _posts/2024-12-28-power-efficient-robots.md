@@ -36,11 +36,11 @@ Sequential and parallel composition are a very intuitive idea with equivalents i
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I saw debates on whether GPT-4V can “solve” compositionality, so I spent my precious Friday afternoon benchmarking it on Winoground.<br><br>Tldr: NO it’s still far from solved (GPT-4V 38.0% vs PaLI 28.8% vs MTurk Humans 85.5%).<br><br>Colab w/ all results: <a href="https://t.co/ksaoBNU8i4">https://t.co/ksaoBNU8i4</a> <br><br>🧵(1/n)</p>&mdash; CLS (@ChengleiSi) <a href="https://twitter.com/ChengleiSi/status/1731047065382523332?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Modularity elsewhere
+### Modularity in biology
 
 Deep learning did evolve from neural networks, which evoke biology right in the name. Biology has [inspired many of the working principles](/what-are-robot-dogs) of quadrupedal robots, including behavioral modularity.
 
-Animals have an abundance of sensory inputs and muscle, but the number of task-level variables important to any particular task is a lot smaller [Ting (2007)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4121431/). Going further, [Ting et. al. (2015)](https://www.sciencedirect.com/science/article/pii/S0896627315001579) argues that motor modules arise from neural plasticity in spinal structures that selective coordinate and co-activate multiple muscles.
+Animals have an abundance of sensory inputs and muscle, but the number of task-level variables important to any particular task is a lot smaller ([Ting (2007)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4121431/)). Going further, [Ting et. al. (2015)](https://www.sciencedirect.com/science/article/pii/S0896627315001579) argues that motor modules arise from neural plasticity in spinal structures that selective coordinate and co-activate multiple muscles.
 The result is that animals can control tasks like balancing in a hierarchical fashion, keeping the dimension of the task-space control low.
 
 ![Modules in Biology](/images/modules_biology.png)
@@ -51,7 +51,7 @@ While robots typically have fewer actuators than an animal has muscles, each ind
 
 If we accept the presence of these motor modules, these patterns of activation could be re-used for different behaviors. Quoting [Ting et. al. (2015)](https://www.sciencedirect.com/science/article/pii/S0896627315001579):
 
-> For example, there are substantial similarities in the most active muscles of motor modules used for walking at different speeds and for different balance strategies, although inter-individual differences also exist.
+> Multifunctionality: muscles can contribute to many actions; a few muscles can be combined in many ways to produce a wide range of different actions.
 
 Making equivalences to the synthetic disciplines, there is a clear connection to the idea of re-using behavioral modules, as we showed with [Minitaur vertical hopper compositions](/vertical-hopper-compositions).
 
@@ -59,21 +59,17 @@ Putting it all together, I'd argue that there are equivalences between biology a
 
 ![Modularity is Everywhere](/images/modularity_everywhere.png)
 
-### Benefits of modularity
+### Modularity in robotics
 
-If we agree with all that
+Some of the benefits of modularity that are enjoyed by biological systems can also apply to the synthetic disciplines as well.
 
-Why do we need it?
+Motor modules can help navigate a "difficult-to-search and nonlinear set of neuromechanical solutions for movement" ([Ting et. al. (2015)](https://www.sciencedirect.com/science/article/pii/S0896627315001579)) as well as the "curse of dimensionality" in various engineering disciplines. This has clear implications on the computational requirements for algorithms.
 
-* Address fundamental robotics constraints in power, force, and computation
+A slightly less obvious use case for modularity is for optimizing robot design for [flapping](/template-based-design-robobee), [jumping](https://www.science.org/doi/abs/10.1126/scirobotics.aag2048), etc., using coordinated movement patterns (or, template trajectories).
 
-How do we get it?
+The principled application of reduced-order models can facilitate the 
 
-* Principled application of reduced-order models for design and control
-
-, then moved to the motivation from real-world applications with Ghost Robotics
-
-## Impacts of
+## Real-world robotics
 
 ![Energy](/images/energy.png)
 
