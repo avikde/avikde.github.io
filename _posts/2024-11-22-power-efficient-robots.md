@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Power-efficient autonomous mobile robots talk
-categories: talk
+title: Power-efficient autonomous mobile robots
+categories: talk travel
 ---
 
 I gave a [talk at OSU's CoRIS seminar](https://engineering.oregonstate.edu/events/power-efficient-autonomous-mobile-robots). It was a joy to visit OSU's Robotics department. The faculty are driven to solve problems grounded in the real world, in application areas ranging from under the sea to the peak of Mt. Hood.
@@ -38,17 +38,30 @@ Sequential and parallel composition are a very intuitive idea with equivalents i
 
 ### Modularity elsewhere
 
-_TO BE COMPLETED_
+Deep learning did evolve from neural networks, which evoke biology right in the name. Biology has [inspired many of the working principles](/what-are-robot-dogs) of quadrupedal robots, including behavioral modularity.
 
-Deep learning did evolve from neural networks, which evoke biology right there in the name. Research in robotic locomotion has also similarly looked to biology for inspiration.
+Animals have an abundance of sensory inputs and muscle, but the number of task-level variables important to any particular task is a lot smaller [Ting (2007)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4121431/). Going further, [Ting et. al. (2015)](https://www.sciencedirect.com/science/article/pii/S0896627315001579) argues that motor modules arise from neural plasticity in spinal structures that selective coordinate and co-activate multiple muscles.
+The result is that animals can control tasks like balancing in a hierarchical fashion, keeping the dimension of the task-space control low.
 
 ![Modules in Biology](/images/modules_biology.png)
 
 <!-- ![Modules in Biomechanics](/images/modules_biomechanics.png) -->
 
-Stepping back, eq can make some equivalences
+While robots typically have fewer actuators than an animal has muscles, each individual task will typically be overactuated for a general-purpose robot. For example, a humanoid robot will not need its arms to maintain a standing posture.
+
+If we accept the presence of these motor modules, these patterns of activation could be re-used for different behaviors. Quoting [Ting et. al. (2015)](https://www.sciencedirect.com/science/article/pii/S0896627315001579):
+
+> For example, there are substantial similarities in the most active muscles of motor modules used for walking at different speeds and for different balance strategies, although inter-individual differences also exist.
+
+Making equivalences to the synthetic disciplines, there is a clear connection to the idea of re-using behavioral modules, as we showed with [Minitaur vertical hopper compositions](/vertical-hopper-compositions).
+
+Putting it all together, I'd argue that there are equivalences between biology and robotics in three distinct aspects of modularity:
 
 ![Modularity is Everywhere](/images/modularity_everywhere.png)
+
+### Benefits of modularity
+
+If we agree with all that
 
 Why do we need it?
 
@@ -59,7 +72,6 @@ How do we get it?
 * Principled application of reduced-order models for design and control
 
 , then moved to the motivation from real-world applications with Ghost Robotics
-
 
 ## Impacts of
 
