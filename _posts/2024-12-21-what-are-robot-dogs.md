@@ -1,10 +1,10 @@
 ---
 layout: post
-title: What are quadrupedal robots (or robot dogs)?
-categories: ghost
+title: What are robot dogs, and what are they good for?
+categories: quadruped
 ---
 
-https://builtin.com/articles/robot-dogs
+I recently got contacted by a journalist with some questions about quadrupedal robots (what they are, what they are good for, etc.). It was an interesting exercise in processing my personal thoughts, and since only a small amount of what I said ended up making it into the publication, I thought I would record 
 
 > Robots tend to imitate naturally occurring, biological structures. What is it about a dog's form that makes it ideal to roboticize?
 

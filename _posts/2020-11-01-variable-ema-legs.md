@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Variable EMA robot legs (Nanotaur)
-categories: hardware minitaur
+categories: hardware quadruped
 ---
 
 After the [Robobee design paper](/template-based-design-robobee), I did some more thinking of turning it into a journal paper, that never transpired.
