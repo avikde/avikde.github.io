@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OSU CoRIS Seminar on Power Efficient Robots
+title: OSU CoRIS seminar on power-efficient robots
 categories: talk
 ---
 
@@ -38,7 +38,7 @@ Sequential and parallel composition are a very intuitive idea with equivalents i
 
 ### Modularity elsewhere
 
-__Under construction__
+_TO BE COMPLETED_
 
 Deep learning did evolve from neural networks, which evoke biology right there in the name. Research in robotic locomotion has also similarly looked to biology for inspiration.
 
@@ -67,7 +67,7 @@ How do we get it?
 
 https://www.technologyreview.com/2024/12/13/1108719/ais-emissions-are-about-to-skyrocket-even-further/
 
-![Safety and Predicability](/images/safety_predictability.png)
+![Safety and Predictability](/images/safety_predictability.png)
 
 
 [The Challenge of Compositionality for AI](https://compositionalintelligence.github.io/)
