@@ -4,7 +4,7 @@ title: Vertical hopper compositions (IJRR 2018)
 categories: papers quadruped
 ---
 
-Paper link: 
+[Paper link](https://journals.sagepub.com/doi/abs/10.1177/0278364918779874)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ijnOCQOpC7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
