@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Power-efficient autonomous mobile robots
-categories: talk travel
+title: Power-efficient and safe mobile robots
+categories: talk travel safety
 ---
 
 I gave a [talk at OSU's CoRIS seminar](https://engineering.oregonstate.edu/events/power-efficient-autonomous-mobile-robots). It was a joy to visit OSU's Robotics department. The faculty are driven to solve problems grounded in the real world, in application areas ranging from under the sea to the peak of Mt. Hood.
@@ -20,9 +20,9 @@ As with I'm sure many others, as a young graduate student, I was inspired by the
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bd5iEke6UlE?si=AViCJ6zrZC46DjyS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-In his thought-provoking [book](https://mitpress.mit.edu/9780262681193/legged-robots-that-balance/), [Marc Raibert](https://en.wikipedia.org/wiki/Marc_Raibert) articulated an intriguing idea called "Control of Running Decomposed into Three Parts." Researchers have been trying to understand when and how this may be possible, and how it generalizes, since then.
+In his thought-provoking [book](https://mitpress.mit.edu/9780262681193/legged-robots-that-balance/), [Raibert](https://en.wikipedia.org/wiki/Marc_Raibert) articulated an intriguing idea called "Control of Running Decomposed into Three Parts." Researchers have been trying to understand when and how this may be possible, and how it generalizes, since then.
 
-My Ph.D. advisor, [Dan Koditschek](https://directory.seas.upenn.edu/daniel-e-koditschek/), has been doing that for decades. In the 1990's, his research group built and impressive array of juggling robots (as a less-power-hungry proxy for cyclic dynamical behavior):
+My Ph.D. advisor, [Koditschek](https://directory.seas.upenn.edu/daniel-e-koditschek/), has been doing that for decades. In the 1990's, his research group built and impressive array of juggling robots (as a less-power-hungry proxy for cyclic dynamical behavior):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u8I7EXXgTvk?si=uSNLnBbZqDBkDfYy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -73,9 +73,9 @@ As robotics tools proliferate, their side-effects will start to also have a larg
 
 ### Safety and predictability
 
-The autonomous vehicle industry is possibly the first (but certainly not the last) subfield that has been thrust into the limelight of the question of safety of autonomous systems. The responsible efforts of the first-party companies (e.g. [Waymo](https://waymo.com/safety/research/)), needs to be acknowledged, but it is certainly not the end of the story.
+The autonomous vehicle industry is possibly the first (but certainly not the last) subfield that has been thrust into the limelight of the question of safety of autonomous systems. The responsible peer-reviewed efforts of the first-party companies (e.g. [Waymo](https://waymo.com/safety/research/)) are huge steps in the right direction, but that is certainly not the end of the story.
 
-Robustness and and availability of multiple solutions inherent to a modular structure (as we saw above) is in stark contrast to the weakness of [monolithic AI structures when subject to uncertainty](https://ieeexplore.ieee.org/document/10778107).
+Robustness and multiple solutions inherent to a modular structure (as we saw above) is in stark contrast to the weakness of monolithic AI structures when subject to uncertainty ([Cummings](https://ieeexplore.ieee.org/document/10778107)).
 
 Intuitively, a modular architecture can be "debugged" and intermediate outputs can be logged and inspected. Just like a black box recording of an aircraft allows review of inputs made from the pilot to the machine, a modular structure allows insight into, and thresholding of, the function of individual modules:
 
@@ -83,7 +83,7 @@ Intuitively, a modular architecture can be "debugged" and intermediate outputs c
 
 ### Energy
 
-Another rising concern is the energetic consumption of various computational tools. While mechanical work done by robots necessarily needs energetic input (and the conversion efficiency can be [quite high](https://www.worldscientific.com/doi/abs/10.1142/9789814415958_0057)), the cost of computational work is nowhere close to the only known fundamental energetic limit based on [Landauer's principle](https://en.wikipedia.org/wiki/Landauer%27s_principle).
+While mechanical work done by robots necessarily needs energetic input (and the conversion efficiency can be [quite high](https://www.worldscientific.com/doi/abs/10.1142/9789814415958_0057)), the cost of computational work is nowhere close to the only known fundamental energetic limit based on [Landauer's principle](https://en.wikipedia.org/wiki/Landauer%27s_principle).
 
 Even as chips get more and more efficient, our appetite for computation outstrips those benefits, raising [continual](https://www.nature.com/articles/d41586-024-03408-z) 
 [concern](https://www.technologyreview.com/2024/12/13/1108719/ais-emissions-are-about-to-skyrocket-even-further/).
@@ -94,7 +94,7 @@ As already recognized by biology, a growing community of researchers are exploit
 
 ## The case for compositionality
 
-Modularity comes with a price. The motor modules in humans have appeared over the (long) course of animal evolution, and the modular control structures developed for robots need to be hand-crafted. These processes are much less automatic, and [need more work than](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) simply scaling a single structure with more data.
+Modularity comes with a price. The motor modules in humans have appeared over the (long) course of animal evolution, and the modular control structures developed for robots need to be hand-crafted. These processes are much less automatic, and [need more work than](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) scaling a simple structure with more data. In fact, the importance of pushing for architectural progress may not be limited to robotics ([LeCun](https://thenextweb.com/news/meta-yann-lecun-ai-behind-human-intelligence)).
 
 Additionally, modularity necessarily imposes limits on the space of usable methods or algorithms. For example, a modular controller reasoning with the equivalent of "motor modules" for a triple pendulum would never be able to accomplish this:
 
@@ -106,6 +106,6 @@ Nevertheless, the question of system abstraction with modularity has come up bef
 
 We don't yet have a generally accepted methodology or architecture in robotics that could be a foundation for symbolic behavior programming.
 
-Transformer-based deep neural networks have become a generally-accepted architecture for without compositional properties, but neural networks are not necessarily incompatible with compositionality. For example, see [Hinton](https://direct.mit.edu/neco/article/35/3/413/114140/How-to-Represent-Part-Whole-Hierarchies-in-a) and [Marcus](https://compositionalintelligence.github.io/pdfs/Marcus.pdf). For more on this topic, I highly recommend the proceedings of this workshop on [The Challenge of Compositionality for AI](https://compositionalintelligence.github.io/).
+Transformer-based deep neural networks have become a generally-accepted architecture for without compositional properties, but neural networks are not necessarily incompatible with compositionality ([Hinton](https://direct.mit.edu/neco/article/35/3/413/114140/How-to-Represent-Part-Whole-Hierarchies-in-a), [Marcus](https://compositionalintelligence.github.io/pdfs/Marcus.pdf)). For more on this topic, I highly recommend the proceedings of this workshop on [The Challenge of Compositionality for AI](https://compositionalintelligence.github.io/).
 
-What is the path forward? If we value the benefits of modularity discussed above, it will take more work to develop the correct architectures, but I argue that this work is essential to get to the point of robotics becoming a true scientific discipline with predictable outcomes.
+What is the path forward? If we value the benefits of modularity discussed above, it will take more work to develop the correct architectures, but this work is essential to get to the point of robotics becoming a true scientific discipline with predictable outcomes.
