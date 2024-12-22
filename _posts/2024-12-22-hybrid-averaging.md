@@ -56,8 +56,16 @@ A much more technical treatment and formal proof of the intuitive idea is, of co
 
 ### Symmetries and averaging
 
+Applying (hybrid) averaging to study locomotion behaviors like hopping and running let us incorporate _time-reversal symmetry_ to get amazing and intuitive reductions in system complexity.
 
+First, the following slide, which some figures from [Legged Robots That Balance](https://mitpress.mit.edu/9780262681193/legged-robots-that-balance/), convey the ubiquity of time-reversal symmetry in locomotion. This is straightforward in systems like a one-legged hopper, but also appears in much more complex scenarios like a cat galloping.
 
 ![Time-reversal symmetry](/images/time_reversal_symmetry.png){: width="600" }
+
+As the slide suggests, the referenced symmetry is not merely a property of the resulting trajectory, but a property of the dynamics itself (i.e. the dynamics $$\dot x = f(x, u)$$ exhibits [symmetry](https://en.wikipedia.org/wiki/Even_and_odd_functions) with respect to various components). This has exciting connections to [Hamiltonian mechanics](https://en.wikipedia.org/wiki/Hamiltonian_mechanics) and [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem) that beg further exploration.
+
+As annotated on the slide, the "symmetric" hopping trajectory in bold in the bottom right figure can be distinguished from all the asymmetric trajectories. These simply correspond to being on the "neutral" set in our nomenclature above, or not, respectively.
+
+Putting all this together, when the dynamics are averaged at a neutral limit cycle, the dynamics are greatly simplified (intuitively, [odd functions](https://en.wikipedia.org/wiki/Even_and_odd_functions) integrate out), giving us a great degree of analytical simplification. This project only scratched the surface, but we applied this idea to [Minitaur vertical hopping](/vertical-hopper-compositions) in a sequel.
 
 _The [paper](https://journals.sagepub.com/doi/full/10.1177/0278364918756498) corresponding to this article was published in 2018._
