@@ -108,4 +108,6 @@ We don't yet have a generally accepted methodology or architecture in robotics t
 
 Transformer-based deep neural networks have become a generally-accepted architecture for without compositional properties, but neural networks are not necessarily incompatible with compositionality ([Hinton](https://direct.mit.edu/neco/article/35/3/413/114140/How-to-Represent-Part-Whole-Hierarchies-in-a), [Marcus](https://compositionalintelligence.github.io/pdfs/Marcus.pdf)). For more on this topic, I highly recommend the proceedings of this workshop on [The Challenge of Compositionality for AI](https://compositionalintelligence.github.io/).
 
-What is the path forward? If we value the benefits of modularity discussed above, it will take more work to develop the correct architectures, but this work is essential to get to the point of robotics becoming a true scientific discipline with predictable outcomes.
+What is the path forward?
+
+If we value the benefits of modularity discussed above, it will take more work to develop the correct architectures, but this work is essential to get to the point of robotics becoming a true scientific discipline with predictable outcomes.
