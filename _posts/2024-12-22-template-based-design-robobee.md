@@ -6,7 +6,11 @@ categories: papers robobee
 
 While there have been numerous projects where I've utilized reduced-order models for control, this is the first published one where I've been able to use them for optimizing robot design. It is also applied to a fairly complex system, the [RoboBee](https://en.wikipedia.org/wiki/RoboBee), justifying the effort expended into developing numerical methods for design.
 
+The overall system architecture of the system is captured in the following diagram:
+
 ![Idea](/images/tbd_idea.png){: width="800" }
+
+The idea
 
 
 ![Objective](/images/tbd_objective.png){: width="600" }
