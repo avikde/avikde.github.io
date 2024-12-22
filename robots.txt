@@ -1,3 +1,8 @@
+---
+layout: none
+---
+User-agent: *
+Sitemap: {{ site.url }}/sitemap.xml
 
 # https://netfuture.ch/2023/07/blocking-ai-crawlers-robots-txt-chatgpt/
 User-agent: CCBot
