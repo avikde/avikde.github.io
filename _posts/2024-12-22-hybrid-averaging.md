@@ -46,9 +46,17 @@ _Note that for mechanical second-order systems, $$n$$ must be even (twice the nu
 
 The major contribution of this paper was to prove that it is possible to extend dynamical averaging to hybrid systems. To do this, we used the [saltation matrix](https://arxiv.org/abs/2306.06862) to capture the effect of the hybrid reset near the limit cycle.
 
+A visual depiction of this is below:
+
 ![Averaged limit cycle](/images/avg_limit_cycle.png){: width="400" }
 
+The red line represents the continuous trajectory with fast coordinate $$x_1$$ and slow coordinate $$x_2$$, which intersects the guard surface $$\mathscr{G}$$, and then follows the reset map $$R$$. This guard condition can result in variable flow durations away from the limit cycle, so we use the saltation matrix to create a "straightened" guard set $$\bar{\mathscr{G}}$$ having the same stability properties as the original system. This "straightened guard" flow now has a fixed period for $$x_1$$, which can now use standard dynamical averaging theorems. The bottom plot shows simulations of a vertical hopping system with the actual (purple) and hybrid-averaged dynamics (orange) flows, showing their correspondence.
+
+A much more technical treatment and formal proof of the intuitive idea is, of course, in the [paper](https://journals.sagepub.com/doi/full/10.1177/0278364918756498).
+
 ### Symmetries and averaging
+
+
 
 ![Time-reversal symmetry](/images/time_reversal_symmetry.png){: width="600" }
 
