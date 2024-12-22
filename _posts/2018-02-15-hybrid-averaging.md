@@ -19,3 +19,9 @@ All of the behaviors of interest are cyclic.
 In this project, we observed that [paper](https://journals.sagepub.com/doi/full/10.1177/0278364918756498)
 
 
+
+![Averaged limit cycle](/images/avg_limit_cycle.png){: width="400" }
+
+![Limit cycle](/images/limit_cycle.png){: width="600" }
+
+![Time-reversal symmetry](/images/time_reversal_symmetry.png){: width="600" }
