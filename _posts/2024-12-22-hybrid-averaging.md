@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Hybrid averaging (IJRR 2018)
-categories: papers
+categories: papers safety
 ---
 
 The [Jerboa](/jerboa-hopping-video) and [Minitaur vertical hopping](/vertical-hopper-compositions) papers both demonstrated the generative possibilities with parallel composition of reduced-order models. Both these projects were extensions of the [Raibert's intriguing concept](https://mitpress.mit.edu/9780262681193/legged-robots-that-balance/) of "control in three parts" for the MIT Leg Lab planar hopper. However, it has been very difficult to formalize when this type of control may work. In some related work, it is called "decoupled control," but it is clear that any robotic system of practical value will not have a [decoupling property](https://math.mit.edu/~jorloff/suppnotes/suppnotes03/ls4.pdf). The hallmark of articulated mechanical systems is that energy can be transferred among different components, which makes them expressive and capable, but also [difficult to analyze](https://en.wikipedia.org/wiki/Double_pendulum#Chaotic_motion).
 
-In this project and paper, we proposed [hybrid dynamical averaging](https://journals.sagepub.com/doi/full/10.1177/0278364918756498) as a way to make progress toward making formal arguments about these complex systems.
+In this project and paper, we proposed [hybrid dynamical averaging](https://journals.sagepub.com/doi/full/10.1177/0278364918756498) as a way to make progress toward making formal arguments about these complex systems. This project only scratched the surface, but we applied this idea to [Minitaur vertical hopping](/vertical-hopper-compositions) in a sequel. I think the idea still has a lot of potential in helping us make formal guarantees about the behavior of complex systems with symmetries (ubiquitous in locomotion), maybe playing an important role in formally guaranteeing their behavior in safety-critical scenarios.
 
 ### Dynamical averaging
 
@@ -64,8 +64,6 @@ First, the following slide, which some figures from [Legged Robots That Balance]
 
 As the slide suggests, the referenced symmetry is not merely a property of the resulting trajectory, but a property of the dynamics itself (i.e. the dynamics $$\dot x = f(x, u)$$ exhibits [symmetry](https://en.wikipedia.org/wiki/Even_and_odd_functions) with respect to various components). This has exciting connections to [Hamiltonian mechanics](https://en.wikipedia.org/wiki/Hamiltonian_mechanics) and [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem) that beg further exploration.
 
-As annotated on the slide, the "symmetric" hopping trajectory in bold in the bottom right figure can be distinguished from all the asymmetric trajectories. These simply correspond to being on the "neutral" set in our nomenclature above, or not, respectively.
-
-Putting all this together, when the dynamics are averaged at a neutral limit cycle, the dynamics are greatly simplified (intuitively, [odd functions](https://en.wikipedia.org/wiki/Even_and_odd_functions) integrate out), giving us a great degree of analytical simplification. This project only scratched the surface, but we applied this idea to [Minitaur vertical hopping](/vertical-hopper-compositions) in a sequel.
+As annotated on the slide, the "symmetric" hopping trajectory in bold in the bottom right figure can be distinguished from all the asymmetric trajectories. These simply correspond to being on the "neutral" set in our nomenclature above, or not, respectively. Putting all this together, when the dynamics are averaged at a neutral limit cycle, the dynamics are greatly simplified (intuitively, [odd functions](https://en.wikipedia.org/wiki/Even_and_odd_functions) integrate out), giving us a great degree of analytical simplification.
 
 _The [paper](https://journals.sagepub.com/doi/full/10.1177/0278364918756498) corresponding to this article was published in 2018._
