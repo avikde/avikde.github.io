@@ -41,4 +41,4 @@ We showed using simulation, and by physically altering the inertia characteristi
 
 This is a bit of an extreme interpretation of the style of decoupled control originally pioneered by [Raibert](https://mitpress.mit.edu/9780262681193/legged-robots-that-balance/) and also demonstrated on [Jerboa](/jerboa-hopping-video), but it also has interesting implications on the possibility of [distributed control](https://en.wikipedia.org/wiki/Distributed_control_system) of legged robots. Another way to think about it is that we are formalizing [preflexes](https://en.wikipedia.org/wiki/Preflexes), which have historically played a pivotal role in the mechanical stabilization of animal and [robot](https://www.sciencedirect.com/science/article/abs/pii/S1467803904000398) locomotion.
 
-_The [paper](https://journals.sagepub.com/doi/abs/10.1177/0278364918779874) corresponding to this article was published in 2018._
+_The [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=m-A4ZdEAAAAJ&citation_for_view=m-A4ZdEAAAAJ:cWzG1nlazyYC) corresponding to this article was published in 2018._
