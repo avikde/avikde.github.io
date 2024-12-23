@@ -1,5 +1,11 @@
 ---
 layout: none
 ---
+
+User-agent: GPTBot
+Disallow: /
+
 User-agent: *
+Allow: /
+
 Sitemap: {{ site.url }}/sitemap.xml
