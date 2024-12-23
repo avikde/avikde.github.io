@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![Avik De](/images/Avik-De.jpg)
+![Avik De](/images/head.png)
 
 I'm a co-founder and CTO of [Ghost Robotics](https://www.ghostrobotics.io/) ([YouTube](https://www.youtube.com/channel/UCG4Xp4nghgyWK4ud5Xbo-4g), [Twitter](https://twitter.com/Ghost_Robotics)), a startup company commercializing legged robotics in Philadelphia. The company currently has two products, a 45kg quadruped aimed at industrial applications, and a 12kg quadruped aimed at research applications. 
 
@@ -56,7 +56,7 @@ and implementing the electrical/computing subsystem (comprised of mass-manufactu
 
 I have also given a number of invited talks separate from conference paper presentations, some of which I've written posts about:
 
-- 2024/11 [OSU CoRIS Seminar](/osu-coris-seminar) -- Power-efficient autonomous mobile robots
+- 2024/11 [OSU CoRIS Seminar](https://engineering.oregonstate.edu/events/power-efficient-autonomous-mobile-robots) -- [Power-efficient autonomous mobile robots](/power-efficient-safe-robots)
 - 2022/06 GRASP Industry Day -- Introduction to Ghost Robotics
 - 2022/05 [ICRA impulsive workshop](https://impulsivemuri.com/workshop2022.html) -- Design and control of insect-scale bees and dog-scale quadrupeds
 - 2022/05 [Kodfest](https://kodlab.seas.upenn.edu/kodfest/) -- [Kodlab 2010-2017](/kodfest)
