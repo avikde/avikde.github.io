@@ -104,7 +104,7 @@ Nevertheless, the question of system abstraction with modularity has come up bef
 
 We don't yet have a generally accepted methodology or architecture in robotics that could be a foundation for symbolic behavior programming.
 
-Transformer-based deep neural networks have become a generally-accepted architecture for without compositional properties, but neural networks are not necessarily incompatible with compositionality ([Hinton](https://direct.mit.edu/neco/article/35/3/413/114140/How-to-Represent-Part-Whole-Hierarchies-in-a), [Marcus](https://compositionalintelligence.github.io/pdfs/Marcus.pdf)). For more on this topic, I highly recommend the proceedings of this workshop on [The Challenge of Compositionality for AI](https://compositionalintelligence.github.io/).
+End-to-end deep neural networks have become a useful and generally-accepted architecture without compositional properties, but neural networks are not necessarily incompatible with compositionality ([Hinton](https://direct.mit.edu/neco/article/35/3/413/114140/How-to-Represent-Part-Whole-Hierarchies-in-a), [Marcus](https://compositionalintelligence.github.io/pdfs/Marcus.pdf)). For more on this topic, I highly recommend the proceedings of this workshop on [The Challenge of Compositionality for AI](https://compositionalintelligence.github.io/).
 
 What is the path forward?
 
