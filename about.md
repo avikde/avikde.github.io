@@ -44,6 +44,7 @@ and implementing the electrical/computing subsystem (comprised of mass-manufactu
 
 ### 🏆 Honors and awards
 
+- [Entrepreneur Of The Year Greater Philadelphia 2025](https://www.ey.com/en_us/newsroom/2025/06/ey-us-announces-winners-for-the-entrepreneur-of-the-year-2025-greater-philadelphia-award)
 - Outstanding reviewer awards: [RAL](/assets/best_reviewer_award_icra18.pdf), [Bioinspriation & Biomimetics](/assets/outstanding_reviewer_bb.pdf), [IOP publishing](/assets/J-VAR-CE-0920-Trusted-Reviewer-1405.pdf)
 - Best Doctoral Dissertation Award for the 2017-2018 Academic Year. UPenn Electrical and Systems Engineering dept. 2018
 - [James S. McDonnell Postdoctoral Fellowship](https://www.jsmf.org/apply/fellowship/) Winner. $200k award for 2-3 years. 2017
