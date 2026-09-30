@@ -1,0 +1,31 @@
+---
+title: 'Invited Talks'
+weight: 5
+---
+
+- 2026/11 Dartmouth
+- 2024/11 [OSU CoRIS Seminar](https://engineering.oregonstate.edu/events/power-efficient-autonomous-mobile-robots) – [Power-efficient autonomous mobile robots](https://avikde.me/power-efficient-safe-robots)
+- 2022/06 GRASP Industry Day – Introduction to Ghost Robotics
+- 2022/05 [ICRA impulsive workshop](https://impulsivemuri.com/workshop2022.html) – Design and control of insect-scale bees and dog-scale quadrupeds
+- 2022/05 [Kodfest](https://kodlab.seas.upenn.edu/kodfest/) – [Kodlab 2010-2017](https://avikde.me/kodfest)
+- 2021/09 [IROS actuator workshop](https://www.ram.eemcs.utwente.nl/gears-direct-drive-recent-trends-and-opportunities-actuation) – [Operating at force, power, and thermal limits in electrically-actuated commercial legged robots](https://youtu.be/724g-ZmK0G8)
+- 2021/06 [ICRA legged robot workshop](http://leggedrobots.put.poznan.pl/program/) – [Perception-aided control and planning with reduced order models](https://avikde.me/icra-legged-ws-2021)
+- 2021/05 [ICRA teleoperation workshop](https://softmanbot.eu/?p=591) – [Shared autonomy and user interaction in commercial legged robots](https://avikde.me/shared-autonomy-ui)
+- 2021/04 [CMU RI Seminar](https://www.ri.cmu.edu/event/ri-seminar-avik-de-co-founder-cto-ghost-robotics-2021-04-23/) – [Design and control of insect-scale bees and dog-scale quadrupeds](https://avikde.me/ri-seminar)
+- 2021/02 [IFRR quadruped robotics colloquium](http://ifrr.org/quadruped-robotics) – [State of the art in quadrupedal robotics](https://avikde.me/ifrr-colloquium)
+- 2020/07 [RSS contact workshop](http://mlab.ri.cmu.edu/reacting_contact_workshop/) – [Reacting to contact](https://youtu.be/al8xvj2-YLY)
+- 2020/07 [ICRA legged workshop](https://sites.google.com/view/leggedrobotworkshop2020) – [Designing power-efficient quadrupedal robots for commercial applications at Ghost Robotics](https://youtu.be/30kZT3RTFpI)
+- 2019/09 GRASP 40 year celebration – [Perspective on Academia vs. Industry](https://avikde.me/academia-industry)
+- 2019/07 ACC templates workshop – Optimal Control Synthesis via Compositions of Reduced-Order Models (Templates)
+- 2019/05 [ICRA legged workshop](https://icra2019wslocomotion.wordpress.com/) – Connecting Today's Applications for Commercial Legged Robots to their Design and Control
+- 2018/10 [IROS templates workshop](https://iros18wsdll.netlify.app/talks/) – [Template Composition for Synthesis of New Behaviors from Simpler Constituents](https://speakerdeck.com/avikde/template-composition-for-synthesis-of-new-behaviors-from-simpler-constituents)
+- 2018/06 [RSS 2018 tails workshop](https://www.cmu.edu/me/robomechanicslab/ws/rss2018.html) – Tail design and control for a tail- and hip-energized and -stabilized bipedal hopping robot
+- 2018/05 [ICRA actuator workshop](https://torquecontrolledactuatorcriteria.wordpress.com/) – Platform design using dynamic motor, electronics, and transmission models
+- 2018/05 [ICRA 2018 multilegged robots workshop](https://research.csiro.au/robotics/multilegged-robots-workshop-icra2018/) – [Toward robust locomotion subject to variations in robot scale, mass, payload, and environmental conditions](https://kodlab.seas.upenn.edu/wp-content/uploads/2018/06/icra18_multilegged_workshop.pdf)
+- 2017/10 UC Berkeley biomechanics seminar – Modular hopping and running (for biologists and engineers)
+- 2017/06 UMichigan, JHU seminar series – Stable hopping and running from compositions of dynamical primitives
+- 2017/02 CMU bipedal seminar; UW seminar – Anchored Behaviors from Template Compositions
+- 2017/02 TRI (Palo Alto, CA), Google (Mountain View) – Mechanically Simple, Behaviorally Versatile Quadrupeds
+- 2017/01 Neuroscience meeting (Tulane) – [Reactive coordination: stabilizing common quadrupedal gaits without CPGs](https://speakerdeck.com/avikde/reactive-coordination-stabilizing-common-quadrupedal-gaits-without-cpgs)
+- 2015/10 Fall UPenn ESE PhD Colloquium – Sequential, Parallel and Symbolic Compositions
+- 2015/06 AMAM 2015 (Cambridge, MA) – [Anchor synthesis via template composition](https://avikde.me/amam-2015-talk)

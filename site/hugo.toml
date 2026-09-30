@@ -1,0 +1,36 @@
+baseURL = 'https://avikde.github.io/'
+locale = 'en-us'
+title = 'Avik De'
+theme = 'hugo-theme-monochrome'
+
+[params]
+navbar_title = "Avik De, UPenn"
+navbar_width = "normal"
+footer = "Copyright © 2026 by Avik De" # default: None
+# enable_toc =
+
+#
+#   name = "Avik De"
+#   bio = "A short description about me."
+#   avatar = "avikde@gmail.com"
+
+[params.author]
+name = "Avik De"
+# avatar = "avikde@gmail.com"
+
+
+[menu]
+#   [[menu.main]]
+#     name = "CV"
+#     url = "/cv/"
+#     weight = 10
+#
+#   [[menu.main]]
+#     name = "Teaching"
+#     url = "/teaching/"
+#     weight = 20
+#
+#   [[menu.main]]
+#     name = "Research"
+#     url = "/research/"
+#     weight = 30
