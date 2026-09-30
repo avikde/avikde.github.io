@@ -25,7 +25,11 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --source site --minify --environment production
+        run: hugo --source site --cleanDestinationDir --minify --environment production
+
+      - name: Add GitHub Pages marker
+        run: New-Item -Path site/public/.nojekyll -ItemType File -Force
+        shell: pwsh
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
