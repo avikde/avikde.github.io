@@ -3,6 +3,9 @@ locale = 'en-us'
 title = 'Avik De'
 theme = 'hugo-theme-monochrome'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 navbar_title = "Avik De, UPenn"
 navbar_width = "normal"
