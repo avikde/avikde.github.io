@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{{ .Site.Language.Locale }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AvikDeCV</title>
+    {{ $settings := resources.Get "css/settings.css" | minify | fingerprint }}
+    {{ $resume := resources.Get "css/resume.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $settings.RelPermalink }}" integrity="{{ $settings.Data.Integrity }}">
+    <link rel="stylesheet" href="{{ $resume.RelPermalink }}" integrity="{{ $resume.Data.Integrity }}">
+</head>
+<body>
+    <main class="cv">{{ .Content }}</main>
+</body>
+</html>
