@@ -23,21 +23,21 @@ h1 {
     padding: 0;
 }
 
-h2 {
-    margin: 0;
-    padding: 0;
-    padding-top: 0.7em;
-    padding-bottom: 5px;
-    align-items: center;
-    display: flex;
-}
-
-h2::after {
+h3:has(> .section-title)::after {
     content: '';
     flex: 1 1 auto;
     margin-left: 3px;
-    margin-top: 0px;
-    border-bottom: 2px solid rgb(46, 46, 46);
+    border-top: 1px solid rgb(46, 46, 46);
+    transform: translateY(0.5em);
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+    padding-top: 0.45em;
+    padding-bottom: 2px;
+    align-items: center;
+    display: flex;
 }
 
 h3 {

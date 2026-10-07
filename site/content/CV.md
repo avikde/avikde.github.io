@@ -15,11 +15,11 @@ layout: cv
 - Philadelphia, PA
 </div>
 
-### <span>PROFESSIONAL SUMMARY -------------------------------------------------------------------------</span>
+### <span class="section-title">PROFESSIONAL SUMMARY</span>
 
 Robotics executive and hands-on technologist with deep expertise across legged mobility, embedded real-time systems, and full-stack robot architecture. Co-founded and scaled a commercial robotics company from 2 to 70 people while leading core platform architecture spanning mechanics, electronics, firmware, and high-performance control software. Background combines academic research in dynamic locomotion with production deployment of fielded robotic systems.
 
-### <span>TECHNICAL SKILLS ---------------------------------------------------------------------------------</span>
+### <span class="section-title">TECHNICAL SKILLS</span>
 **Management & Leadership.** Grew startup from 2-70 people; managed up to 10 direct reports; agile methodology; product roadmaps; cross-functional engineering lead; KPIs; vendor relationships.
 
 **Software.** Architecture and implementation of Ghost Robotics robot and mobility software and SDK; high-performance concurrent C++ running on embedded platforms for real-time control; hardware drivers; RT Linux; ONNX; TensorRT; GStreamer; physics simulation with Bullet physics.
@@ -31,7 +31,7 @@ Robotics executive and hands-on technologist with deep expertise across legged m
 **Mechanical.** Design architecture; motor and drivetrain selection using analysis & simulations; Solidworks.
 
 
-### <span>PROFESSIONAL EXPERIENCE -----------------------------------------------------------------------</span>
+### <span class="section-title">PROFESSIONAL EXPERIENCE</span>
 
 ### Adjunct Associate Professor of Electrical & Systems Engineering | UPenn <span class="spacer"></span> 2015 &mdash; Present
 - Research in robotics and reinforcement learning
@@ -59,14 +59,14 @@ Robotics executive and hands-on technologist with deep expertise across legged m
 - Research on neuromechanical control of juggling, SLAM on graphs, leading to 3 publications.
 
 
-### <span>EDUCATION -----------------------------------------------------------------------------------------</span>
+### <span class="section-title">EDUCATION</span>
   
 
 ### Ph.D. University of Pennsylvania, Philadelphia, PA. Advisor: Dr. Daniel E. Koditschek<span class="spacer"></span> 2017
 
 ### M.S. (Mech Engg), B.S. (Engg Mech), B.S. (Appl Math). Johns Hopkins Univ, Baltimore, MD.<span class="spacer"></span> 2010
 
-### <span>HONORS & AWARDS --------------------------------------------------------------------------------</span>
+### <span class="section-title">HONORS & AWARDS</span>
 
 - [Philadelphia Business Journal 40 Under 40](https://www.bizjournals.com/philadelphia/news/2026/03/31/40-under-40-honorees-business-journal-philadelphia.html) -- 2026
 - [Entrepreneur Of The Year Greater Philadelphia](https://www.ey.com/en_us/newsroom/2025/06/ey-us-announces-winners-for-the-entrepreneur-of-the-year-2025-greater-philadelphia-award) -- 2025
@@ -78,7 +78,7 @@ Robotics executive and hands-on technologist with deep expertise across legged m
 - Tau Beta Pi, Pi Tau Sigma Engg. honor societies. Inductee (JHU) -- 2008
 - International Scholarship. Merit-based full-tuition scholarship (JHU) -- 2006-10
 
-### <span>SELECTED PUBLICATIONS --------------------------------------------------------------------------</span>
+### <span class="section-title">SELECTED PUBLICATIONS</span>
 (For a full list of publications and citation metrics, see [Google Scholar](https://scholar.google.com/citations?user=m-A4ZdEAAAAJ&hl=en).)
 
 - De, A., Stewart-Height, A., & Koditschek, D. E., _Task-Based Control and Design of a BLDC Actuator for Robotics_, **IEEE Robotics and Automation Letters (RA-L)** — design and control of brushless DC actuators for robotic applications.
@@ -97,12 +97,12 @@ Robotics executive and hands-on technologist with deep expertise across legged m
 
 
 
-### <span>SELECTED INVITED TALKS --------------------------------------------------------------------------</span>
+### <span class="section-title">SELECTED INVITED TALKS</span>
 
 Invited speaker at major robotics venues including ICRA, IROS, RSS workshops, CMU RI Seminar, IFRR Quadruped Colloquium, and academic/industry seminars on legged robot design, power-efficient locomotion, shared autonomy, actuator limits, and bio-inspired control architectures (2015–2024).
 
 
-### <span>TEACHING, MENTORING & SERVICE ----------------------------------------------------------------</span>
+### <span class="section-title">TEACHING, MENTORING & SERVICE</span>
 
 - Instructor (UPenn/Coursera Robotics Specialization – Mobility & Capstone)
 
@@ -116,7 +116,7 @@ Invited speaker at major robotics venues including ICRA, IROS, RSS workshops, CM
 
 
 
-### <span>SELECTED OPEN-SOURCE PROJECTS --------------------------------------------------------------</span>
+### <span class="section-title">SELECTED OPEN-SOURCE PROJECTS</span>
 
 - **Robotics teaching and demonstration.** [Hierarchical manipulation pipeline](https://github.com/avikde/vla-pipeline)
 - **Computer architecture libraries.** [TinyXPU](https://github.com/avikde/tiny-xpu) modular systolic array
