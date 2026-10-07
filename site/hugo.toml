@@ -7,7 +7,7 @@ theme = 'hugo-theme-monochrome'
 unsafe = true
 
 [params]
-navbar_title = "Avik De, UPenn"
+navbar_title = "Avik De, Ph.D."
 navbar_width = "normal"
 footer = "Copyright © 2026 by Avik De" # default: None
 # enable_toc =
