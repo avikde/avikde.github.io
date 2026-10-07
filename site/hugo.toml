@@ -21,12 +21,10 @@ footer = "Copyright © 2026 by Avik De" # default: None
 name = "Avik De"
 # avatar = "avikde@gmail.com"
 
-
-[menu]
-#   [[menu.main]]
-#     name = "CV"
-#     url = "/cv/"
-#     weight = 10
+[[menu.navbar]]
+name = "CV"
+url = "/cv/"
+weight = 10
 #
 #   [[menu.main]]
 #     name = "Teaching"
