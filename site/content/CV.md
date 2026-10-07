@@ -33,7 +33,7 @@ Robotics executive and hands-on technologist with deep expertise across legged m
 
 ### <span class="section-title">PROFESSIONAL EXPERIENCE</span>
 
-### Adjunct Associate Professor of Electrical & Systems Engineering | UPenn <span class="spacer"></span> 2015 &mdash; Present
+### Adjunct Associate Professor of Electrical & Systems Engineering | UPenn <span class="spacer"></span> 2026 &mdash; Present
 - Research in robotics and reinforcement learning
 - Guest lecturer in graduate-level reinforcement learning course
 
@@ -70,7 +70,7 @@ Robotics executive and hands-on technologist with deep expertise across legged m
 
 - [Philadelphia Business Journal 40 Under 40](https://www.bizjournals.com/philadelphia/news/2026/03/31/40-under-40-honorees-business-journal-philadelphia.html) -- 2026
 - [Entrepreneur Of The Year Greater Philadelphia](https://www.ey.com/en_us/newsroom/2025/06/ey-us-announces-winners-for-the-entrepreneur-of-the-year-2025-greater-philadelphia-award) -- 2025
-- Outstanding reviewer awards: [RAL](https://avikde.me/assets/best_reviewer_award_icra18.pdf), [Bioinspriation & Biomimetics](https://avikde.me/assets/outstanding_reviewer_bb.pdf), [IOP publishing](https://avikde.me/assets/J-VAR-CE-0920-Trusted-Reviewer-1405.pdf)
+- Outstanding reviewer awards: [RAL](https://avikde.me/assets/best_reviewer_award_icra18.pdf), [Bioinspriation & Biomimetics](https://avikde.me/assets/outstanding_reviewer_bb.pdf), [IOP publishing](https://avikde.me/assets/J-VAR-CE-0920-Trusted-Reviewer-1405.pdf)
 - Best Doctoral Dissertation Award for the 2017-2018 Academic Year. UPenn Electrical and Systems Engineering dept -- 2018
 - [James S. McDonnell Postdoctoral Fellowship](https://www.jsmf.org/apply/fellowship/) Winner. $200k award for 2-3 years -- 2017
 - Robert George Gerstmeyer Award. For academic achievement (JHU Mech. Engg. Department) 2008-09
