@@ -3,7 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>AvikDeCV</title>
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Description }}">
+    <meta name="author" content="{{ .Site.Params.author.name }}">
+    <link rel="canonical" href="{{ .Permalink }}">
     {{ $settings := resources.Get "css/settings.css" | minify | fingerprint }}
     {{ $resume := resources.Get "css/resume.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $settings.RelPermalink }}" integrity="{{ $settings.Data.Integrity }}">

@@ -1,5 +1,13 @@
 ---
 type: balloon
+title: "Avik De, Ph.D. | Robotics Researcher and Engineer"
+description: "Avik De is a robotics researcher and engineer, Chief Science Officer at Ghost Robotics, and Adjunct Associate Professor in Electrical and Systems Engineering at the University of Pennsylvania."
+keywords:
+  - Avik De
+  - robotics
+  - legged robotics
+  - Ghost Robotics
+  - University of Pennsylvania
 balloon_img_src: "avik.jpg"
 balloon_resources: "/balloon"
 ---

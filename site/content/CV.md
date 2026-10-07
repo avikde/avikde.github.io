@@ -1,5 +1,6 @@
 ---
 title: AvikDeCV
+description: "Curriculum vitae of Avik De, robotics executive and researcher, Chief Science Officer at Ghost Robotics, and Adjunct Associate Professor at the University of Pennsylvania."
 url: /cv/
 layout: cv
 ---

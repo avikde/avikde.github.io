@@ -1,6 +1,7 @@
 baseURL = 'https://avikde.github.io/'
 locale = 'en-us'
 title = 'Avik De'
+enableRobotsTXT = true
 theme = 'hugo-theme-monochrome'
 
 [markup.goldmark.renderer]
@@ -20,6 +21,7 @@ footer = "Copyright © 2026 by Avik De" # default: None
 [params.author]
 name = "Avik De"
 # avatar = "avikde@gmail.com"
+description = "Avik De, Ph.D. — robotics researcher, Chief Science Officer at Ghost Robotics, and Adjunct Associate Professor at the University of Pennsylvania."
 
 [[menu.navbar]]
 name = "CV"
