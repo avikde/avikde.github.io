@@ -15,6 +15,8 @@ git submodule add https://github.com/kaiiiz/hugo-theme-monochrome.git themes/hug
 
 ## Build and Deploy
 
+From the `site/` directory:
+
 - Build site for testing
 ```sh
 hugo serve -D
