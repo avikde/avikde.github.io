@@ -3,8 +3,11 @@ locale = 'en-us'
 title = 'Avik De'
 theme = 'hugo-theme-monochrome'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
-navbar_title = "Avik De, UPenn"
+navbar_title = "Avik De, Ph.D."
 navbar_width = "normal"
 footer = "Copyright © 2026 by Avik De" # default: None
 # enable_toc =
@@ -18,12 +21,10 @@ footer = "Copyright © 2026 by Avik De" # default: None
 name = "Avik De"
 # avatar = "avikde@gmail.com"
 
-
-[menu]
-#   [[menu.main]]
-#     name = "CV"
-#     url = "/cv/"
-#     weight = 10
+[[menu.navbar]]
+name = "CV"
+url = "/cv/"
+weight = 10
 #
 #   [[menu.main]]
 #     name = "Teaching"
