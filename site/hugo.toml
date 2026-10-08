@@ -1,6 +1,6 @@
 baseURL = 'https://avikde.github.io/'
 locale = 'en-us'
-title = 'Avik De'
+title = 'Avik De - Robotics Researcher'
 enableRobotsTXT = true
 theme = 'hugo-theme-monochrome'
 
@@ -8,7 +8,7 @@ theme = 'hugo-theme-monochrome'
 unsafe = true
 
 [params]
-navbar_title = "Avik De, Ph.D."
+navbar_title = "Avik De - Robotics Researcher"
 navbar_width = "normal"
 footer = "Copyright © 2026 by Avik De" # default: None
 # enable_toc =
