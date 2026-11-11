@@ -32,9 +32,11 @@ jobs:
         run: touch site/public/.nojekyll
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site/public
-          publish_branch: gh-pages
-          exclude_assets: '.github,slides'
+          branch: gh-pages
+          folder: site/public
+          clean: true
+          clean-exclude: |
+            slides
+            slides/**/*
