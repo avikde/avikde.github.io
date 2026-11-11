@@ -37,3 +37,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site/public
           publish_branch: gh-pages
+          exclude_assets: '.github,slides'
