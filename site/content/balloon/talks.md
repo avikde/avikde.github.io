@@ -3,7 +3,7 @@ title: 'Invited Talks'
 weight: 5
 ---
 
-- 2026/11 [Dartmouth Autonomy Seminars](https://sites.dartmouth.edu/das/calendar_event/avik-de-ghost-robotics-university-of-pennsylvania/) -- [Slides (PDF)](2026-Dartmouth.pdf)
+- 2026/11 [Dartmouth Autonomy Seminars](https://sites.dartmouth.edu/das/calendar_event/avik-de-ghost-robotics-university-of-pennsylvania/) -- [Slides](slides/talk/2026-Dartmouth.html), [PDF](slides/talk/2026-Dartmouth.pdf)
 - 2024/11 [OSU CoRIS Seminar](https://engineering.oregonstate.edu/events/power-efficient-autonomous-mobile-robots) – [Power-efficient autonomous mobile robots](https://avikde.me/power-efficient-safe-robots)
 - 2022/06 GRASP Industry Day – Introduction to Ghost Robotics
 - 2022/05 [ICRA impulsive workshop](https://impulsivemuri.com/workshop2022.html) – Design and control of insect-scale bees and dog-scale quadrupeds
